@@ -15,7 +15,7 @@ Next, Alice applies a measurement to both qubits that she owns, q1 and |q⟩ , a
 
 00 here Does nothing, 01 -> Apply X gate, 10 -> Apply Z gate, 11 -> Apply ZX gate.
 
-download (1).jfif
+
 
 Mathematics behind Quantum Teleportation Protocol
 Alice have to transfer |q⟩=α|0⟩+β|1⟩ (a random qubit) to Bob. She doesn't know the state of the qubit. For this, Alice and Bob take the help of the Clark(a third person). Clark made a pair of entangled qubits for Alice and Bob. The entangled qubits could be written in Dirac Notation as:
@@ -43,14 +43,14 @@ Which can then be separated and written as:
 Then, Alice measures the first two qubit (which she owns) and sends them as two classical bits to Bob. The result she obtains is always one of the four standard basis states
 |00⟩,|01⟩,|10⟩ ,and |11⟩ with equal probability. On the basis of her measurement, Bob's state will be projected to, |00→(α|0⟩+β|1⟩)|01→(α|1⟩+β|0⟩)|10→(α|0⟩−β|1⟩)|11⟩→(α|1⟩−β|0⟩). Finally, Bob, on receiving the bits from Alice, knows he can obtain the original state |q⟩ by applying appropriate transformations on his qubit that was once part of the entangled pair. The transformations he needs to apply are:
 
-image.pngTherefore, Bob can recreate the qubit which is transferred by Alice by applying some operations on it.
+Therefore, Bob can recreate the qubit which is transferred by Alice by applying some operations on it.
 
 Now, let's think about what we can do with this Teleportation. I believe, Teleportation is done in three ways. THe first says the object get completely scanned by light and they recreated with the beam again. The second says, There will be dismantle of the object into many simplier particles and all parts realligned together and thus object recreated. Lastly, there will some kind of 'spooky action' or magic which makes the object disappears somewhere at a particular point of time and reappeared somewhere in the later time.
 
 Is human Teleportation possible?
 First, let's make our idea cleared out of compilicated things. When you could teleport yourself, it takes the transition time. Unlike light which takes least time, we consisting of matter takes time greater than light takes. It could be the accurate reason though.
 
-download.jfif
+
 
 Now, let's think about what is going to be teleported. Interestingly, according to cartoon or science fiction logic, we can teleport across obstacles. However, particles of matter can't be passed through obstacle barriers because many of them interact too strongly with real world atoms. Since, we cannot have control over our environment, it became a difficult question to answer about teleportation of matter.
 
